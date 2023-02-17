@@ -1,0 +1,20 @@
+body {
+    background-color: #222;
+    color: #ccc
+}
+
+#main {
+    background-color: #333;
+    color: #ccc;
+    width: 500px;
+    height: 200px;
+    min-width: 500px;
+    min-height: 200px;
+}
+#options_area {
+    background-color: transparent;
+    width: 400px;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+}
